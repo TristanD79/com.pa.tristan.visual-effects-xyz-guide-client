@@ -1,0 +1,21 @@
+{
+  "context": "client",
+  "identifier": "com.pa.tristan.visual-effects-xyz-guide-client",
+  "display_name": "Visual Effects XYZ Guide",
+  "description": "Adds some .pfx (visual effects) that are a helpful guide for bone orientation and position, as well as a comparison for AxialX/Y/Z and EmitterX/Y/Z, and also a .pfx used in the tutorial series by Box42 Studios that goes over adding visual effects to PA.",
+  "author": "Tristan",
+  "version": "1.0",
+  "build": "116982",
+  "date": "2024-03-25",
+  "signature": "not yet implemented",
+  "forum": "https://steamcommunity.com/app/386070/discussions/0/3814033305515660080/",
+  "icon": "https://i.postimg.cc/sDnnNphS/xyz-guide-icon.png",
+  "priority": 100,
+  "category": [
+    "titans",
+    "effects",
+    "animations"
+  ],
+  "scenes": {
+  }
+}
